@@ -2,7 +2,7 @@
 
 I am a research master student at the Department of Economics at Sciences Po Paris.
 
-My research interests lie in the field of quantitative marketing. I am interested in applying economic theory, econometrics tools to answer questions on consumers behavior.
+My research interests lie in the field of quantitative marketing. I am interested in applying economic theory, econometrics tools to answer questions on consumer behavior.
 
 ### Markdown
 
