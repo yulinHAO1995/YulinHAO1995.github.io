@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+##Yulin HAO
 
-You can use the [editor on GitHub](https://github.com/yulinHAO1995/yulinhao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a research master student at the Department of Economics at Sciences Po Paris.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests lie in the field of quantitative marketing. I am interested in applying economic theory, econometrics tools to answer questions on consumers behavior.
 
 ### Markdown
 
